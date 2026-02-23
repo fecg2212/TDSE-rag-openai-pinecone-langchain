@@ -222,9 +222,3 @@ Este proyecto permitió:
 - Diferenciar entre un LLM simple y un sistema RAG.
 
 Este repositorio representa la implementación completa de un sistema RAG utilizando herramientas modernas de IA.
-
----
-
-## 👨‍💻 Autor
-
-Estudiante del laboratorio de Introducción a Retrieval-Augmented Generation con OpenAI y Pinecone.
